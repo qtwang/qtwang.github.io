@@ -19,7 +19,7 @@ Work experience
 ======
 * Research Assistant at Tsinghua University, 2016
   <!-- * Duties included: Tagging issues -->
-  * Supervisor: Prof. Jianmin Wang, C.E. Chen Wang, Zhao Cao and Shuo Zhang
+  * Supervisors: Prof. Jianmin Wang, C.E. Chen Wang, Zhao Cao and Shuo Zhang
 
 * Research Assistant at University of Hong Kong, 2018
   <!-- * Duties included: Merging pull requests -->
