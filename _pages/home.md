@@ -2,9 +2,10 @@
 permalink: /
 hidden: true
 title: "About Qitong"
+author_profile: true
 last_modified_at: 2021-05-17T17:49:00-00:00
-redirect_from: 
-  - /index.html
+# redirect_from: 
+#   - /index.html
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
