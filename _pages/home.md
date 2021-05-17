@@ -25,7 +25,7 @@ I am a PhD student at the University of Paris, working with [Prof. Themis Palpan
 
 It has been my greatest honor to work with [Prof. Michael J. Franklin](https://www.cs.uchicago.edu/people/profile/michael-franklin/) and [Dr. John Paparrizos](http://people.cs.uchicago.edu/~jopa/) at the University of Chicago, with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and Dr. Chen Wang at Tsinghua University.
 
-My research interest lies at the intersections between 1). massive data series analytics and management systems, and 2). modern machine learning and deep learning tools.
+My research interest lies in the intersections between 1). massive data series analytics and management systems, and 2). modern machine learning and deep learning tools.
 
 ## Publications
 
