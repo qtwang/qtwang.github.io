@@ -105,11 +105,14 @@ body {
 		}
 	}
 
-  p,
   li,
   dl {
-    // font-size: 1em;
-    font-size: $type-size-6;
+    font-size: 1em;
+  }
+
+  p {
+    font-size: 0.9em;
+    margin-bottom: $type-size-8;
   }
 
   /* paragraph indents */
