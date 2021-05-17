@@ -2,6 +2,7 @@
 permalink: /
 hidden: true
 classes: wide
+layout: single-hf
 # title: "About Qitong"
 author_profile: true
 last_modified_at: 2021-05-17T17:49:00-00:00
