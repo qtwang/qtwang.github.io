@@ -23,7 +23,7 @@ last_modified_at: 2021-05-17T17:49:00-00:00
 
 I am a PhD student at the University of Paris, working with [Prof. Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with Prof. Wei Wang and Prof. Peng Wang.
 
-It has been my greatest honor to work with [Prof. Michael J. Franklin](https://www.cs.uchicago.edu/people/profile/michael-franklin/) and [Dr. John Paparrizos](http://people.cs.uchicago.edu/~jopa/) at the University of Chicago, with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and Dr. Chen Wang at Tsinghua University.
+It has been my great honor to work with [Prof. Michael J. Franklin](https://www.cs.uchicago.edu/people/profile/michael-franklin/) and [Dr. John Paparrizos](http://people.cs.uchicago.edu/~jopa/) at the University of Chicago, with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and Dr. Chen Wang at Tsinghua University.
 
 My research interest lies in the intersections between 1). massive data series analytics and management systems, and 2). modern machine learning and deep learning tools.
 
