@@ -21,7 +21,7 @@ last_modified_at: 2021-05-17T17:49:00-00:00
 # toc: true
 ---
 
-I am a PhD student at the University of Paris, working with [Prof. Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/). Before that, I got my bachelor's and master's degrees in computer science from Fudan University (with Prof. Wei Wang and Prof. Peng Wang).
+I am a PhD student at the University of Paris, working with [Prof. Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with Prof. Wei Wang and Prof. Peng Wang.
 
 It has been my greatest honor to work with [Prof. Michael J. Franklin](https://www.cs.uchicago.edu/people/profile/michael-franklin/) and [Dr. John Paparrizos](http://people.cs.uchicago.edu/~jopa/) at the University of Chicago, with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and Dr. Chen Wang at Tsinghua University.
 
@@ -31,4 +31,4 @@ My research interest lies at the intersections between 1). massive data series a
 
 | Conferences                                        |
 | ------------------------------------------- | 
-| *Qitong Wang*, Themis Palpanas. Deep Learning Embeddings for Data Series Similarity Search. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([paper][about])([code][about]) |
+| *Qitong Wang*, Themis Palpanas. Deep Learning Embeddings for Data Series Similarity Search. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([paper](https://qtwang.github.io))([code](https://qtwang.github.io)) |
