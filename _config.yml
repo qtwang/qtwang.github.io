@@ -310,5 +310,6 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: header_free
+      # layout: header_free
+      layout: single
       author_profile: true
