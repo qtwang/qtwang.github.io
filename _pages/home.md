@@ -31,8 +31,6 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Publications
 
-<!-- | Conferences                                        |
-| ------------------------------------------- |  -->
 | *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([paper](https://qtwang.github.io))([code](https://qtwang.github.io)) |
 
 
