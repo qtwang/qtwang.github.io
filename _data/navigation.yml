@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "Publications"
-    url: https://qtwang.github.io/#publications
+    url: /#publications
   - title: "Talks"
-    url: https://qtwang.github.io/#talks
+    url: /#talks
+  - title: "Services"
+    url: /#services
