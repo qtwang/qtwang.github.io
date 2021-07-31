@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2021-05-18
+last_modified_at: 2021-07-31
 # redirect_from: 
 #   - /index.html
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
@@ -31,7 +31,7 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Publications
 
-| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([paper](https://qtwang.github.io))([code](https://qtwang.github.io)) |
+| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([paper](/assets/pdf/kdd21-seanet.pdf))([homepage](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
 | Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
 
 ## Talks
