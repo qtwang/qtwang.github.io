@@ -8,6 +8,9 @@ layout: single
 author_profile: true
 last_modified_at: 2021-07-31
 redirect_from: 
+  - /home
+  - /home.html
+  - /index
   - /index.html
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 # layouts_gallery:

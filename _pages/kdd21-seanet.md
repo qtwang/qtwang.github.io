@@ -9,11 +9,9 @@ author_profile: true
 last_modified_at: 2021-08-05
 redirect_from: 
   - /seanet
-  - /seanet.md
   - /seanet.html
-  - /kdd21-seanet.md
   - /kdd21-seanet.html
-excerpt: "published in ACM SIGKDD 2021"
+excerpt: "ACM SIGKDD 2021"
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
 #     image_path: /assets/images/mm-layout-splash.png
@@ -26,6 +24,8 @@ excerpt: "published in ACM SIGKDD 2021"
 #     alt: "archive layout example"
 # toc: true
 ---
+
+[Qitong Wang](https://qtwang.github.io/) and [Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/home.html), published in [ACM SIGKDD 2021](https://www.kdd.org/kdd2021/)
 
 ## Abstract
 
@@ -46,7 +46,7 @@ A key operation for the (increasingly large) data series collection analysis is 
 ## Cite this work
 
 ```latex
-@inproceedings{kdd21-Wang-SEAnet,
+`@inproceedings{kdd21-Wang-SEAnet,
   author    = {Wang, Qitong and 
                Palpanas, Themis},
   title     = {Deep Learning Embeddings for Data Series Similarity Search},
@@ -55,6 +55,6 @@ A key operation for the (increasingly large) data series collection analysis is 
   year      = {2021},
   url       = {https://doi.org/10.1145/3447548.3467317},
   doi       = {10.1145/3447548.3467317},
-  timestamp = {Thu, 05 Aug 2021 09:46:47 +0800}
+  timestamp = {Thu, 05 Aug 2021 09:46:47 +0800}`
 }
 ```
