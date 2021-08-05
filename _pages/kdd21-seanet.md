@@ -46,7 +46,7 @@ A key operation for the (increasingly large) data series collection analysis is 
 ## Cite this work
 
 ```latex
-`@inproceedings{kdd21-Wang-SEAnet,
+@inproceedings{kdd21-Wang-SEAnet,
   author    = {Wang, Qitong and 
                Palpanas, Themis},
   title     = {Deep Learning Embeddings for Data Series Similarity Search},
@@ -55,6 +55,6 @@ A key operation for the (increasingly large) data series collection analysis is 
   year      = {2021},
   url       = {https://doi.org/10.1145/3447548.3467317},
   doi       = {10.1145/3447548.3467317},
-  timestamp = {Thu, 05 Aug 2021 09:46:47 +0800}`
+  timestamp = {Thu, 05 Aug 2021 09:46:47 +0800}
 }
 ```
