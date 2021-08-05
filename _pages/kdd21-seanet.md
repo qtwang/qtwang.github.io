@@ -31,6 +31,11 @@ excerpt: "ACM SIGKDD 2021"
 
 A key operation for the (increasingly large) data series collection analysis is similarity search. According to recent studies, SAX-based indexes offer state-of-the-art performance for similarity search tasks. However, their performance lags under high-frequency, weakly correlated, excessively noisy, or other dataset-specific properties. In this work, we propose Deep Embedding Approximation (DEA), a novel family of data series summarization techniques based on deep neural networks. Moreover, we describe SEAnet, a novel architecture especially designed for learning DEA, that introduces the Sum of Squares preservation property into the deep network design. Finally, we propose a new sampling strategy, SEASam, that allows SEAnet to effectively train on massive datasets. Comprehensive experiments on 7 diverse synthetic and real datasets verify the advantages of DEA learned using SEAnet, when compared to other state-of-the-art traditional and DEA solutions, in providing high- quality data series summarizations and similarity search results.
 
+## Materials
+
+| Paper in KDD21 | [https://qtwang.github.io/assets/pdf/kdd21-seanet.pdf](/assets/pdf/kdd21-seanet.pdf) |
+| Talk at KDD21 | [https://qtwang.github.io/assets/video/kdd21-seanet.mp4](/assets/video/kdd21-seanet.mp4) |
+
 ## Codes
 
 | SEAnet architecture | [https://github.com/qtwang/SEAnet](https://github.com/qtwang/SEAnet) |
