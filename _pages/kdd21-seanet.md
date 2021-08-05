@@ -46,9 +46,8 @@ A key operation for the (increasingly large) data series collection analysis is 
   author    = {Wang, Qitong and 
                Palpanas, Themis},
   title     = {Deep Learning Embeddings for Data Series Similarity Search},
-  booktitle = {{KDD} '21: The 27th {ACM} {SIGKDD} Conference on Knowledge Discovery
-               and Data Mining, Virtual Event, Singapore, August 14-18, 2021},
-  publisher = {{ACM}},
+  booktitle = {KDD'21: The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Virtual Event, Singapore, August 14-18, 2021},
+  publisher = {ACM},
   year      = {2021},
   url       = {https://doi.org/10.1145/3447548.3467317},
   doi       = {10.1145/3447548.3467317},
