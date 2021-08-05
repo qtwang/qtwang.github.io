@@ -4,12 +4,16 @@ hidden: true
 classes: wide
 # layout: single-hf
 layout: single
-title: KDD21 Deep Learning Embeddings for Data Series Similarity Search
+title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
 last_modified_at: 2021-08-05
 redirect_from: 
+  - /seanet
+  - /seanet.md
+  - /seanet.html
+  - /kdd21-seanet.md
   - /kdd21-seanet.html
-# excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "published in ACM SIGKDD 2021"
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
 #     image_path: /assets/images/mm-layout-splash.png
@@ -29,15 +33,15 @@ A key operation for the (increasingly large) data series collection analysis is 
 
 ## Codes
 
-| SEAnet architecture | https://github.com/qtwang/SEAnet |
-| Indexing & query answering | https://github.com/qtwang/isax-modularized |
+| SEAnet architecture | [https://github.com/qtwang/SEAnet](https://github.com/qtwang/SEAnet) |
+| Indexing & query answering | [https://github.com/qtwang/isax-modularized](https://github.com/qtwang/isax-modularized) |
 
 ## Datasets
 
-| Astro (astrophysics) | https://swift.gsfc.nasa.gov/results/bs58mon/ |
-| Deep1B (computer vision) | http://sites.skoltech.ru/compvision/noimi |
-| SALD (neuroscience) | http://fcon_1000.projects.nitrc.org/indi/retro/sald.html |
-| Seismic (seismology) | http://ds.iris.edu/data/access/ |
+| Astro (astrophysics) | [https://swift.gsfc.nasa.gov/results/bs58mon/](https://swift.gsfc.nasa.gov/results/bs58mon/) |
+| Deep1B (computer vision) | [http://sites.skoltech.ru/compvision/noimi](http://sites.skoltech.ru/compvision/noimi) |
+| SALD (neuroscience) | [http://fcon_1000.projects.nitrc.org/indi/retro/sald.html](http://fcon_1000.projects.nitrc.org/indi/retro/sald.html) |
+| Seismic (seismology) | [http://ds.iris.edu/data/access/](http://ds.iris.edu/data/access/) |
 
 ## Cite this work
 
