@@ -38,7 +38,6 @@ My research interest lies in the intersections between 1). massive data series a
 
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. |
 
-
 ## Services
 
 | Invited External Reviewer | VLDB 2021, DMKD 2021 |
