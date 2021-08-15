@@ -3,7 +3,7 @@ permalink: /kdd21-seanet
 hidden: true
 classes: wide
 # layout: single-hf
-layout: single
+layout: single-comments
 title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
 last_modified_at: 2021-08-05
