@@ -3,7 +3,8 @@ permalink: /kdd21-seanet
 hidden: true
 classes: wide
 # layout: single-hf
-layout: single-comments
+layout: single
+# layout: single-comments
 title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
 last_modified_at: 2021-08-05
@@ -23,6 +24,7 @@ excerpt: "ACM SIGKDD 2021"
 #     image_path: /assets/images/mm-layout-archive.png
 #     alt: "archive layout example"
 # toc: true
+comments: true
 ---
 
 [Qitong Wang](https://qtwang.github.io/) and [Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/home.html), published in [ACM SIGKDD 2021](https://www.kdd.org/kdd2021/)
