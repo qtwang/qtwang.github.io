@@ -44,6 +44,19 @@ comments: true
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      
+        <script src="https://giscus.app/client.js"
+          data-repo="qtwang/qtwang.github.io"
+          data-repo-id="MDEwOlJlcG9zaXRvcnkzNjgwODczOTk="
+          data-category="General"
+          data-category-id="DIC_kwDOFfCRZ84B-rJg"
+          data-mapping="url"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-theme="light"
+          crossorigin="anonymous"
+          async>
+        </script>
       </section>
 
       <footer class="page__meta">
@@ -88,17 +101,4 @@ comments: true
       </div>
     </div>
   {% endif %}
-
-  <script src="https://giscus.app/client.js"
-    data-repo="qtwang/qtwang.github.io"
-    data-repo-id="MDEwOlJlcG9zaXRvcnkzNjgwODczOTk="
-    data-category="General"
-    data-category-id="DIC_kwDOFfCRZ84B-rJg"
-    data-mapping="url"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-theme="light"
-    crossorigin="anonymous"
-    async>
-  </script>
 </div>
