@@ -53,17 +53,6 @@ A key operation for the (increasingly large) data series collection analysis is 
 
 ## Cite this work
 
-```latex
-@inproceedings{kdd21-Wang-SEAnet,
-  author    = {Wang, Qitong and 
-               Palpanas, Themis},
-  title     = {Deep Learning Embeddings for Data Series Similarity Search},
-  booktitle = {KDD'21: The 27th ACM SIGKDD Conference on Knowledge Discovery 
-               and Data Mining, Virtual Event, Singapore, August 14-18, 2021},
-  publisher = {ACM},
-  year      = {2021},
-  url       = {https://doi.org/10.1145/3447548.3467317},
-  doi       = {10.1145/3447548.3467317},
-  timestamp = {Thu, 05 Aug 2021 09:46:47 +0800}
-}
-```
+| BibTex | [https://qtwang.github.io/assets/bib/kdd21-seanet-acm.bib](/assets/bib/kdd21-seanet-acm.bib) |
+
+Qitong Wang and Themis Palpanas. 2021. Deep Learning Embeddings for Data Series Similarity Search. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 1708–1716. DOI:https://doi.org/10.1145/3447548.3467317
