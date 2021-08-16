@@ -39,7 +39,7 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. ([resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
 
 ## Services
 
