@@ -54,5 +54,5 @@ A key operation for the (increasingly large) data series collection analysis is 
 ## Cite this work
 
 | BibTex | [https://qtwang.github.io/assets/bib/kdd21-seanet-acm.bib](/assets/bib/kdd21-seanet-acm.bib) |
-
-Qitong Wang and Themis Palpanas. 2021. Deep Learning Embeddings for Data Series Similarity Search. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 1708–1716. DOI:https://doi.org/10.1145/3447548.3467317
+| ACM Ref| Qitong Wang and Themis Palpanas. 2021. Deep Learning Embeddings for Data Series Similarity Search. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 1708–1716. DOI:https://doi.org/10.1145/3447548.3467317
+ |
