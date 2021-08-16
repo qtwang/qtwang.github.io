@@ -3,8 +3,8 @@ permalink: /kdd21-seanet
 hidden: true
 classes: wide
 # layout: single-hf
-layout: single
-# layout: single-comments
+# layout: single
+layout: single-comments
 title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
 last_modified_at: 2021-08-05
@@ -36,6 +36,7 @@ A key operation for the (increasingly large) data series collection analysis is 
 ## Materials
 
 | Paper in KDD21 | [https://qtwang.github.io/assets/pdf/kdd21-seanet.pdf](/assets/pdf/kdd21-seanet.pdf) |
+| Slides at KDD21 | [https://qtwang.github.io/assets/pdf/kdd21-seanet-slides.pdf](/assets/pdf/kdd21-seanet-slides.pdf) |
 | Talk at KDD21 | [https://qtwang.github.io/assets/video/kdd21-seanet.mp4](/assets/video/kdd21-seanet.mp4) |
 
 ## Codes
