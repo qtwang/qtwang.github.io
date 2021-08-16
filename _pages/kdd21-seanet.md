@@ -7,7 +7,7 @@ classes: wide
 layout: single-comments
 title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
-last_modified_at: 2021-08-05
+last_modified_at: 2021-08-16
 redirect_from: 
   - /seanet
   - /seanet.html
