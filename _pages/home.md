@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2021-07-31
+last_modified_at: 2021-10-31
 redirect_from: 
   - /home
   - /home.html
@@ -40,6 +40,7 @@ My research interest lies in the intersections between 1). massive data series a
 ## Talks
 
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. ([resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, online, Oct 2021. ([resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
 
 ## Services
 
