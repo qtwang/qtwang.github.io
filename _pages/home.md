@@ -34,13 +34,13 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Publications
 
-| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([pdf](/assets/pdf/kdd21-seanet.pdf), [resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
+| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. ([pdf](/assets/pdf/kdd21-seanet.pdf), [resources](/kdd21-seanet)) |
 | Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, online, Oct 2021. ([resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
-| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. ([resources](https://helios.mi.parisdescartes.fr/~themisp/seanet/)) |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, online, Oct 2021. ([resources](/kdd21-seanet)) |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. ([resources](/kdd21-seanet)) |
 
 ## Services
 
