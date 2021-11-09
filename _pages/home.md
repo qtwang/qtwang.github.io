@@ -34,7 +34,7 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Publications
 
-| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
+| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
 | Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
 
 ## Talks
