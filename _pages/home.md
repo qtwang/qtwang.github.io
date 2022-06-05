@@ -39,7 +39,7 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sep 5, 2022. Sydney, Australia. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
+| **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sep 5, 2022. Sydney, Australia. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Oct 2021. Online. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, May 2021. Shanghai, China. \[[supp](/kdd21-seanet)\] |
 
