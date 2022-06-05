@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2021-10-31
+last_modified_at: 2022-06-05
 redirect_from: 
   - /home
   - /home.html
@@ -26,11 +26,11 @@ redirect_from:
 # toc: true
 ---
 
-I am a PhD student at the University of Paris, working with [Prof. Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with [Prof. Wei Wang](https://dblp.uni-trier.de/pid/w/WeiWang9.html) and [Prof. Peng Wang](https://scholar.google.com/citations?user=fxcAZkoAAAAJ).
+I am a PhD student at Université Paris Cité, working with [Prof. Themis Palpanas](http://helios.mi.parisdescartes.fr/~themisp/). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with [Prof. Wei Wang](https://dblp.uni-trier.de/pid/w/WeiWang9.html) and [Prof. Peng Wang](https://scholar.google.com/citations?user=fxcAZkoAAAAJ).
 
 It has been my great honor to work with [Prof. Michael J. Franklin](https://www.cs.uchicago.edu/people/profile/michael-franklin/) and [Dr. John Paparrizos](http://people.cs.uchicago.edu/~jopa/) at the University of Chicago, with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
 
-My research interest lies in the intersections between 1). massive data series analytics and management systems, and 2). modern machine learning and deep learning tools.
+My research interest lies in the intersections between 1). massive data series analytics and management systems, and 2). modern machine learning and deep learning tools, with applications in neuroscience.
 
 ## Publications
 
@@ -39,9 +39,10 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, online, Oct 2021. \[[supp](/kdd21-seanet)\] |
-| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sep 5, 2022. Sydney, Australia. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Oct 2021. Online. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, May 2021. Shanghai, China. \[[supp](/kdd21-seanet)\] |
 
 ## Services
 
-| Invited External Reviewer | VLDB 2021, DMKD 2021 |
+| Invited External Reviewer | VLDB 2021, DMKD 2021<br>PAKDD 2022 |

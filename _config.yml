@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qitong Wang - University of Paris"
+title                    : "Qitong Wang - Université Paris Cité"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qitong Wang"
-description              : "PhD student at the University of Paris"
+description              : "PhD student at Université Paris Cité"
 url                      : https://qtwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : qtwang/qtwang.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -125,7 +125,7 @@ analytics:
 author:
   name             : "Qitong Wang"
   avatar           : /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "University of Paris"
+  bio              : "Université Paris Cité"
   location         : "Pairs, France"
   email            :
   links:

@@ -7,7 +7,7 @@ classes: wide
 layout: single-comments
 title: "Deep Learning Embeddings for Data Series Similarity Search"
 author_profile: true
-last_modified_at: 2021-10-31
+last_modified_at: 2022-06-05
 redirect_from: 
   - /seanet
   - /seanet.html
@@ -35,25 +35,23 @@ A key operation for the (increasingly large) data series collection analysis is 
 
 ## Materials
 
-| Paper in KDD21 | [https://qtwang.github.io/assets/pdf/kdd21-seanet.pdf](/assets/pdf/kdd21-seanet.pdf) |
-| Slides at KDD21 | [https://qtwang.github.io/assets/pdf/kdd21-seanet-slides.pdf](/assets/pdf/kdd21-seanet-slides.pdf) |
-| Talk at KDD21 | [https://qtwang.github.io/assets/video/kdd21-seanet.mp4](/assets/video/kdd21-seanet.mp4) |
-| Talk at Tsinghua AI Time PhD Forum (in Chinese) | [https://www.bilibili.com/video/BV1ub4y1Y7NW](https://www.bilibili.com/video/BV1ub4y1Y7NW?t=1676.4) |
+| Paper in [KDD21](/assets/pdf/kdd21-seanet.pdf), [VLDB22 PhD Workshop](/assets/pdf/vldb22phdws-seanet.pdf) |
+| Slides at [KDD21](/assets/pdf/kdd21-seanet-slides.pdf) |
+| Talk at [KDD21](/assets/video/kdd21-seanet.mp4), [Tsinghua AI Time PhD Forum (in Chinese)](https://www.bilibili.com/video/BV1ub4y1Y7NW?t=1676.4) |
 
 ## Codes
 
-| SEAnet architecture | [https://github.com/qtwang/SEAnet](https://github.com/qtwang/SEAnet) |
-| Indexing & query answering | [https://github.com/qtwang/isax-modularized](https://github.com/qtwang/isax-modularized) |
+| [SEAnet architecture](https://github.com/qtwang/SEAnet) |
+| [Indexing & query answering](https://github.com/qtwang/isax-modularized) |
 
 ## Datasets
 
-| Astro (astrophysics) | [https://swift.gsfc.nasa.gov/results/bs58mon/](https://swift.gsfc.nasa.gov/results/bs58mon/) |
-| Deep1B (computer vision) | [http://sites.skoltech.ru/compvision/noimi](http://sites.skoltech.ru/compvision/noimi) |
-| SALD (neuroscience) | [http://fcon_1000.projects.nitrc.org/indi/retro/sald.html](http://fcon_1000.projects.nitrc.org/indi/retro/sald.html) |
-| Seismic (seismology) | [http://ds.iris.edu/data/access/](http://ds.iris.edu/data/access/) |
+| [Astro](https://swift.gsfc.nasa.gov/results/bs58mon/) (astrophysics) |
+| [Deep1B](http://sites.skoltech.ru/compvision/noimi) (computer vision) |
+| [SALD](http://fcon_1000.projects.nitrc.org/indi/retro/sald.html) (neuroscience) |  |
+| [Seismic](http://ds.iris.edu/data/access/) (seismology) |
 
 ## Cite this work
 
-| BibTex | [https://qtwang.github.io/assets/bib/kdd21-seanet-acm.bib](/assets/bib/kdd21-seanet-acm.bib) |
-| ACM Ref| Qitong Wang and Themis Palpanas. 2021. Deep Learning Embeddings for Data Series Similarity Search. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD'21). Association for Computing Machinery, New York, NY, USA, 1708–1716. DOI:https://doi.org/10.1145/3447548.3467317
- |
+| BibTex | [bib](/assets/bib/kdd21-seanet-acm.bib) |
+| ACM Ref | Qitong Wang and Themis Palpanas. 2021. Deep Learning Embeddings for Data Series Similarity Search. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD'21). Association for Computing Machinery, New York, NY, USA, 1708–1716. DOI:https://doi.org/10.1145/3447548.3467317 |
