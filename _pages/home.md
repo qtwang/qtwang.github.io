@@ -45,4 +45,4 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Services
 
-| Invited External Reviewer | VLDB 2021, DMKD 2021<br>PAKDD 2022 |
+| Invited External Reviewer | PVLDB 2021, DMKD 2021<br>PAKDD 2022 |
