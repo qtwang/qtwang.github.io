@@ -34,14 +34,14 @@ My research interest lies in the intersections between 1). massive data series a
 
 ## Publications
 
-| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, August 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
+| *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sydney, Australia, Sep 2022. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
+| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, Aug 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
 | Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
 
 ## Talks
 
-| **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sep 5, 2022. Sydney, Australia. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
-| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Oct 2021. Online. \[[supp](/kdd21-seanet)\] |
-| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, May 2021. Shanghai, China. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
 ## Services
 
