@@ -41,7 +41,7 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. The 38th Francophone Conference on Management of Data (BDA), Clermont-Ferrand, Oct 2022. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. The 38th Francophone Conference on Management of Data (BDA), Clermont-Ferrand, France, Oct 2022. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
