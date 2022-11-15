@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2022-10-20
+last_modified_at: 2022-11-15
 redirect_from: 
   - /home
   - /home.html
@@ -34,7 +34,8 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Publications
 
-| *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, 2022-2023. \[[pdf](/)\] |
+| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International conference on Management of Data (SIGMOD), Seattle, WA, USA, June 2023. \[[pdf](/)\] |
+| *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, Issue 3, 2022. \[[pdf](/)\] |
 | *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sydney, Australia, Sep 2022. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
 | *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, Aug 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
 | Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
@@ -45,10 +46,10 @@ My research interest lies in the intersections between 1) massive data series an
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
+## Services
+
+| Invited External Reviewer | PVLDB 2021, DMKD 2021<br>PAKDD 2022, ICDM 2022<br>ICDE 2023 |
+
 ## Funding
 
 | Qitong Wang (PI). **Deep Learning-based EEG Epilepsy Detection and Analysis**. The Data Intelligence Institute of Paris (diiP), May-Aug 2022. |
-
-## Services
-
-| Invited External Reviewer | PVLDB 2021, DMKD 2021<br>PAKDD 2022, ICDM 2022 |
