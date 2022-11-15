@@ -34,7 +34,7 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Publications
 
-| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International conference on Management of Data (SIGMOD), Seattle, WA, USA, June 2023. \[[pdf](/)\] |
+| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD), Seattle, WA, USA, June 2023. \[[pdf](/)\] |
 | *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, Issue 3, 2022. \[[pdf](/)\] |
 | *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sydney, Australia, Sep 2022. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
 | *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, Aug 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
@@ -42,7 +42,7 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Talks
 
-| **Deep Learning Embeddings for Data Series Similarity Search**. The 38th Francophone Conference on Management of Data (BDA), Clermont-Ferrand, France, Oct 2022. \[[supp](/kdd21-seanet)\] |
+| **Deep Learning Embeddings for Data Series Similarity Search**. The 38th Francophone Conference on Management of Data ([BDA](https://bda2022.sciencesconf.org/)), Clermont-Ferrand, France, Oct 2022. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
