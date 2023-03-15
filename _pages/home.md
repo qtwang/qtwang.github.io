@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2023-01-30
+last_modified_at: 2023-03-15
 redirect_from: 
   - /home
   - /home.html
@@ -34,8 +34,8 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Publications
 
-| Zhuxian Guo, *Qitong Wang*, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz. **Hierarchical Transformer Encoder to Improve Entire Neoplasm Area Segmentation on Whole Slide Image of Hepatocellular Carcinoma**. IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, Apr 2023. \[[pdf](/)\] |
 | Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD), Seattle, WA, USA, Jun 2023. \[[pdf](/)\] |
+| Zhuxian Guo, *Qitong Wang*, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz. **Hierarchical Transformer Encoder to Improve Entire Neoplasm Area Segmentation on Whole Slide Image of Hepatocellular Carcinoma**. IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, Apr 2023. \[[pdf](/assets/pdf/isbi23-hitrans.pdf)\] |
 | *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, Issue 3, 2022. \[[pdf](https://www.vldb.org/pvldb/vol16/p480-wang.pdf)\]\[[code](https://github.com/qtwang/iEDeaL)\] |
 | *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sydney, Australia, Sep 2022. \[[pdf](/assets/pdf/vldb22phdws-seanet.pdf)\]\[[supp](/kdd21-seanet)\] |
 | *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, Aug 2021. \[[pdf](/assets/pdf/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
