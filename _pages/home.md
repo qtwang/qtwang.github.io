@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2023-03-15
+last_modified_at: 2023-04-08
 redirect_from: 
   - /home
   - /home.html
@@ -34,6 +34,7 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Publications
 
+| *Qitong Wang*, Themis Palpanas. **SEAnet: A Deep Learning Architecture for Data Series Similarity Search**. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. \[[pdf](/)\] |
 | Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD), Seattle, WA, USA, Jun 2023. \[[pdf](/)\] |
 | Zhuxian Guo, *Qitong Wang*, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz. **Hierarchical Transformer Encoder to Improve Entire Neoplasm Area Segmentation on Whole Slide Image of Hepatocellular Carcinoma**. IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, Apr 2023. \[[pdf](/assets/pdf/isbi23-hitrans.pdf)\] |
 | *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, Issue 3, 2022. \[[pdf](https://www.vldb.org/pvldb/vol16/p480-wang.pdf)\]\[[code](https://github.com/qtwang/iEDeaL)\] |
