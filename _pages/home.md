@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2023-04-08
+last_modified_at: 2023-06-18
 redirect_from: 
   - /home
   - /home.html
@@ -28,9 +28,9 @@ redirect_from:
 
 I am a PhD student at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with [Prof. Wei Wang](https://dblp.uni-trier.de/pid/w/WeiWang9.html) and [Prof. Peng Wang](https://scholar.google.com/citations?user=fxcAZkoAAAAJ).
 
-It has been my great honor to work with [Prof. Nick Koudas](https://www.cs.toronto.edu/~koudas/) at the University of Toronto (remotely), with [Prof. John Paparrizos](https://www.paparrizos.org/) at the University of Chicago (remotely), with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
+It has been my great honor to work with [Prof. Nick Koudas](https://www.cs.toronto.edu/~koudas/) at the University of Toronto (remote), with [Prof. John Paparrizos](https://www.paparrizos.org/) at the University of Chicago (remote), with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
 
-My research interest lies in the intersections between 1) massive data series analytics and management systems and 2) modern machine learning and deep learning tools, with their interdisciplinary applications in neuroscience.
+My research interest lies in the intersections between 1) massive data series analytics and management systems and 2) modern machine learning and deep learning tools, as well as their interdisciplinary applications in neuroscience.
 
 ## Publications
 
@@ -44,14 +44,17 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Talks
 
+| **What Can Deep Learning Do for Data Series Similarity Search?**. [LIPADE Open Day](https://helios2.mi.parisdescartes.fr/~lomn/OpenDayLipade/), Paris, France, Jun 2022.|
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
 ## Services
 
-| Invited External Reviewer | ICDE 2023<br>PAKDD 2022, ICDM 2022<br>PVLDB 2021, DMKD 2021 |
+| Invited External Reviewer | ICDE 23, PAKDD 22, ICDM 22, PVLDB 21, DMKD 21 |
+| Student Volunteer | SIGMOD 23/20 |
 
-## Funding
+## Awards and Funding
 
+| **SIGMOD 2023 Travel Award**. ACM SIGMOID/PODS 2023 Mentorship Committee, Apr 2023. |
 | Qitong Wang (PI). **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. The Data Intelligence Institute of Paris (diiP), Jan-Jul 2023. |
 | Qitong Wang (PI). **Deep Learning-based EEG Epilepsy Detection and Analysis**. The Data Intelligence Institute of Paris (diiP), May-Aug 2022. |

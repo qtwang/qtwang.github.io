@@ -11,6 +11,7 @@ last_modified_at: 2022-06-05
 redirect_from: 
   - /seanet
   - /seanet.html
+  - /kdd21-seanet
   - /kdd21-seanet.html
 excerpt: "ACM SIGKDD 2021"
 # layouts_gallery:
