@@ -44,7 +44,7 @@ My research interest lies in the intersections between 1) massive data series an
 
 ## Talks
 
-| **What Can Deep Learning Do for Data Series Similarity Search?**. [LIPADE Open Day](https://helios2.mi.parisdescartes.fr/~lomn/OpenDayLipade/), Paris, France, Jun 2023.|
+| **What Can Deep Learning Do for Data Series Similarity Search?** [LIPADE Open Day](https://helios2.mi.parisdescartes.fr/~lomn/OpenDayLipade/), Paris, France, Jun 2023.|
 | **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
 | **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
 
