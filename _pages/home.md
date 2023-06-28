@@ -28,7 +28,7 @@ redirect_from:
 
 I am a PhD student at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with [Prof. Wei Wang](https://dblp.uni-trier.de/pid/w/WeiWang9.html) and [Prof. Peng Wang](https://scholar.google.com/citations?user=fxcAZkoAAAAJ).
 
-It has been my great honor to work with [Prof. Nick Koudas](https://www.cs.toronto.edu/~koudas/) at the University of Toronto (remote), with [Prof. John Paparrizos](https://www.paparrizos.org/) at the University of Chicago (remote), with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
+It has been my great honor and big pleasure to also work with [Prof. Ke Li](https://www.sfu.ca/~keli/) at Simon Fraser University,  [Prof. Nick Koudas](https://www.cs.toronto.edu/~koudas/) at the University of Toronto, with [Prof. John Paparrizos](https://www.paparrizos.org/) at the University of Chicago (remote), with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
 
 My research interest lies in the intersections between 1) massive data series analytics and management systems and 2) modern machine learning and deep learning tools, as well as their interdisciplinary applications in neuroscience.
 
