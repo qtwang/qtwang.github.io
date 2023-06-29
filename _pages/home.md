@@ -56,5 +56,5 @@ My research interest lies in the intersections between 1) massive data series an
 ## Awards and Funding
 
 | **SIGMOD 2023 Travel Award**. ACM SIGMOID/PODS 2023 Mentorship Committee, Apr 2023. |
-| Qitong Wang (PI). **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. The Data Intelligence Institute of Paris (diiP), Jan-Jul 2023. |
-| Qitong Wang (PI). **Deep Learning-based EEG Epilepsy Detection and Analysis**. The Data Intelligence Institute of Paris (diiP), May-Aug 2022. |
+| **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), Jan-Jul 2023. |
+| **Deep Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), May-Aug 2022. |
