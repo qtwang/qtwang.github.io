@@ -36,7 +36,7 @@ A key operation for the (increasingly large) data series collection analysis is 
 
 ## Materials
 
-| Paper in [KDD21](/assets/pdf/kdd21-seanet.pdf), [VLDB22 PhD Workshop](/assets/pdf/vldb22phdws-seanet.pdf) |
+| Paper in [KDD21](https://helios2.mi.parisdescartes.fr/~themisp/publications/kdd21-seanet.pdf), [VLDB22 PhD Workshop](https://ceur-ws.org/Vol-3186/paper_4.pdf) |
 | Slides at [KDD21](/assets/pdf/kdd21-seanet-slides.pdf) |
 | Talk at [KDD21](/assets/video/kdd21-seanet.mp4), [Tsinghua AI Time PhD Forum (in Chinese)](https://www.bilibili.com/video/BV1ub4y1Y7NW?t=1676.4) |
 
