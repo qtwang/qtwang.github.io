@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2023-06-18
+last_modified_at: 2024-09-10
 redirect_from: 
   - /home
   - /home.html
@@ -26,35 +26,40 @@ redirect_from:
 # toc: true
 ---
 
-I am a PhD student at Université Paris Cité, working with [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html). Before that, I got my bachelor's and master's degrees in computer science from Fudan University, working with [Prof. Wei Wang](https://dblp.uni-trier.de/pid/w/WeiWang9.html) and [Prof. Peng Wang](https://scholar.google.com/citations?user=fxcAZkoAAAAJ).
-
-It has been my great honor and big pleasure to also work with [Prof. Ke Li](https://www.sfu.ca/~keli/) at Simon Fraser University,  [Prof. Nick Koudas](https://www.cs.toronto.edu/~koudas/) at the University of Toronto, with [Prof. John Paparrizos](https://www.paparrizos.org/) at the University of Chicago (remote), with [Prof. Reynold Cheng](https://i.cs.hku.hk/~ckcheng/) at the University of Hong Kong, and with [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ) and [Dr. Chen Wang](https://dblp.uni-trier.de/pid/82/4206-18.html) at Tsinghua University.
-
-My research interest lies in the intersections between 1) massive data series analytics and management systems and 2) modern machine learning and deep learning tools, as well as their interdisciplinary applications in neuroscience.
+Hi there! I am a postdoc at Harvard University, working with [Prof. Stratos Idreos](https://stratos.seas.harvard.edu/) on adaptive data systems.
+Before that, I got my PhD at Université Paris Cité under [Prof. Themis Palpanas](https://helios2.mi.parisdescartes.fr/~themisp/home.html).
+I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca/~keli/) at Simon Fraser University.
 
 ## Publications
 
-| *Qitong Wang*, Themis Palpanas. **SEAnet: A Deep Learning Architecture for Data Series Similarity Search**. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/tkde23-seanet.pdf)\] |
-| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD), Seattle, WA, USA, Jun 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf)\] |
-| Zhuxian Guo, *Qitong Wang*, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz. **Hierarchical Transformer Encoder to Improve Entire Neoplasm Area Segmentation on Whole Slide Image of Hepatocellular Carcinoma**. IEEE International Symposium on Biomedical Imaging (ISBI), Cartagena de Indias, Colombia, Apr 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/isbi23.pdf)\] |
-| *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. Proceedings of the VLDB Endowment (PVLDB), Volume 16, Issue 3, 2022. \[[pdf](https://www.vldb.org/pvldb/vol16/p480-wang.pdf)\]\[[code](https://github.com/qtwang/iEDeaL)\]\[[supp](/pvldb22-iedeal)\] |
-| *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. PhD Workshop at International Conference on Very Large Databases (VLDB PhD Workshop), Sydney, Australia, Sep 2022. \[[pdf](https://ceur-ws.org/Vol-3186/paper_4.pdf)\]\[[supp](/kdd21-seanet)\] |
-| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), virtual conference, Aug 2021. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
-| Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop** (demo). International Conference on Database Systems for Advanced Applications (DASFAA), Gold Coast, Australia, May 2018.|
+| Zeyu Wang, *Qitong Wang*<span>&dagger;</span>, Xiaoxing Cheng, Peng Wang, Themis Palpanas, Wei Wang. **Steiner-Hardness: a Query Hardness Measure for Graph-Based ANN Indexes**. PVLDB 18, 2024. |
+| Xu Zhang, Zhipeng Xie, Haiyang Yu, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**. MM 2024. \[[pdf](https://arxiv.org/pdf/2408.13744)\] |
+| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search**. VLDBJ 2024. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/vldbj24-dumpyos.pdf)\] |
+| Sijie Dong, *Qitong Wang*, Soror Sahri, Themis Palpanas, Divesh Srivastava. **Efficiently Mitigating the Impact of Data Drift on Machine Learning Pipelines**. PVLDB 17(11), 2024. \[[pdf](https://www.vldb.org/pvldb/vol17/p3072-dong.pdf)\] |
+| *Qitong Wang*, Themis Palpanas. **SEAnet: A Deep Learning Architecture for Data Series Similarity Search**. TKDE 35(12), 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/tkde23-seanet.pdf)\] |
+| Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **Dumpy: A Compact and Adaptive Index for Large Data Series Collections**. SIGMOD 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/sigmod23-dumpy.pdf)\] |
+| Zhuxian Guo, *Qitong Wang*, Henning Müller, Themis Palpanas, Nicolas Loménie, Camille Kurtz. **Hierarchical Transformer Encoder to Improve Entire Neoplasm Area Segmentation on Whole Slide Image of Hepatocellular Carcinoma**. ISBI 2023. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/isbi23.pdf)\] |
+| *Qitong Wang*, Stephen Whitmarsh, Vincent Navarro, Themis Palpanas. **iEDeaL: A Deep Learning Framework for Detecting Highly Imbalanced Interictal Epileptiform Discharges**. PVLDB 16(3), 2022. \[[pdf](https://www.vldb.org/pvldb/vol16/p480-wang.pdf)\]\[[code](https://github.com/qtwang/iEDeaL)\]\[[supp](/pvldb22-iedeal)\] |
+| *Qitong Wang*. **Data Series Similarity Search via Deep Learning**. VLDB PhD Workshop 2022. \[[pdf](https://ceur-ws.org/Vol-3186/paper_4.pdf)\]\[[supp](/kdd21-seanet)\] |
+| *Qitong Wang*, Themis Palpanas. **Deep Learning Embeddings for Data Series Similarity Search**. KDD 2021. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/kdd21-seanet.pdf)\]\[[code](https://github.com/qtwang/SEAnet)\]\[[supp](/kdd21-seanet)\] |
+| Zhongsheng Li, Qiuhong Li, Wei Wang, *Qitong Wang*, Fengbin Qi, Yimin Liu, Peng Wang. **HDUMP: A Data Recovery Tool for Hadoop**. DASFAA (demo) 2018.|
+
+<span>&dagger;</span> indicates the corresponding author(s).
 
 ## Talks
 
-| **What Can Deep Learning Do for Data Series Similarity Search?** [LIPADE Open Day](https://helios2.mi.parisdescartes.fr/~lomn/OpenDayLipade/), Paris, France, Jun 2023.|
-| **Deep Learning Embeddings for Data Series Similarity Search**. Tsinghua AI Time PhD Forum, Online, Oct 2021. \[[supp](/kdd21-seanet)\] |
-| **Deep Learning Embeddings for Data Series Similarity Search**. Fudan University, Shanghai, China, May 2021. \[[supp](/kdd21-seanet)\] |
+| **What Can Deep Learning Do for Data Series Similarity Search?** [FORTH](https://www.forth.gr/en/home/), Jul 2024; [Fudan](https://www.fudan.edu.cn/en/), Mar 2024; [SFU](https://www.sfu.ca/), Aug 2023; [UPCité](https://helios2.mi.parisdescartes.fr/~lomn/OpenDayLipade/), Jun 2023; MIT, Jun 2023; Harvard, May 2023. |
+| **Deep Learning Embeddings for Data Series Similarity Search**. [Tsinghua AI Time](https://www.aitime.cn/), Oct 2021; [Fudan](https://www.fudan.edu.cn/en/), May 2021. \[[supp](/kdd21-seanet)\] |
 
 ## Services
 
+| Reviewer & PC Member | PVLDB 24-25, TKDE 24, KDD 24, [MulTiSA@ICDE](https://multisa2024.org/) 24 |
 | Invited External Reviewer | ICDE 23, PAKDD 22, ICDM 22, PVLDB 21, DMKD 21 |
 | Student Volunteer | SIGMOD 23/20 |
 
 ## Awards and Funding
 
+| **VLDB 2024 Travel Grant**. The SPEND Committee of the VLDB Endowment, Aug 2024. |
 | **SIGMOD 2023 Travel Award**. ACM SIGMOID/PODS 2023 Mentorship Committee, Apr 2023. |
 | **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), Jan-Jul 2023. |
 | **Deep Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), May-Aug 2022. |
