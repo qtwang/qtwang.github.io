@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2024-09-10
+last_modified_at: 2024-11-01
 redirect_from: 
   - /home
   - /home.html
@@ -32,7 +32,8 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
-| Zeyu Wang, *Qitong Wang*<span>&dagger;</span>, Xiaoxing Cheng, Peng Wang, Themis Palpanas, Wei Wang. **Steiner-Hardness: a Query Hardness Measure for Graph-Based ANN Indexes**. PVLDB 18, 2024. |
+| *Qitong Wang*, Ioana Ileana, Themis Palpanas. **LeaFi: Data Series Indexes on Steroids with Learned Filters**. Accepted at SIGMOD 2025. |
+| Zeyu Wang, *Qitong Wang*<span>&dagger;</span>, Xiaoxing Cheng, Peng Wang, Themis Palpanas, Wei Wang. **Steiner-Hardness: a Query Hardness Measure for Graph-Based ANN Indexes**. PVLDB 17(13), 2024. |
 | Xu Zhang, Zhipeng Xie, Haiyang Yu, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**. MM 2024. \[[pdf](https://arxiv.org/pdf/2408.13744)\] |
 | Zeyu Wang, *Qitong Wang*, Peng Wang, Themis Palpanas, Wei Wang. **DumpyOS: A Data-Adaptive Multi-ary Index for Scalable Data Series Similarity Search**. VLDBJ 2024. \[[pdf](https://helios2.mi.parisdescartes.fr/~themisp/publications/vldbj24-dumpyos.pdf)\] |
 | Sijie Dong, *Qitong Wang*, Soror Sahri, Themis Palpanas, Divesh Srivastava. **Efficiently Mitigating the Impact of Data Drift on Machine Learning Pipelines**. PVLDB 17(11), 2024. \[[pdf](https://www.vldb.org/pvldb/vol17/p3072-dong.pdf)\] |
@@ -53,12 +54,13 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Services
 
-| Reviewer & PC Member | PVLDB 24-25, TKDE 24, KDD 24, [MulTiSA@ICDE](https://multisa2024.org/) 24 |
+| Reviewer & PC Member | PVLDB 24-25, KDD 25, TKDE 24, [MulTiSA@ICDE](https://multisa2024.org/) 24 |
 | Invited External Reviewer | ICDE 23, PAKDD 22, ICDM 22, PVLDB 21, DMKD 21 |
 | Student Volunteer | SIGMOD 23/20 |
 
 ## Awards and Funding
 
+| **[BDA 2024 PhD Thesis Award](https://bdav.irisa.fr/prix/)**. The [BDA (French Data Management Community)](https://bdav.irisa.fr/) Thesis Award Committee, Oct 2024. |
 | **VLDB 2024 Travel Grant**. The SPEND Committee of the VLDB Endowment, Aug 2024. |
 | **SIGMOD 2023 Travel Award**. ACM SIGMOID/PODS 2023 Mentorship Committee, Apr 2023. |
 | **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), Jan-Jul 2023. |
