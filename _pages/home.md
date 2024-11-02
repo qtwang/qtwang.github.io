@@ -60,8 +60,8 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Awards and Funding
 
-| **[BDA 2024 PhD Thesis Award](https://bdav.irisa.fr/prix/)**. The [BDA (French Data Management Community)](https://bdav.irisa.fr/) Thesis Award Committee, Oct 2024. |
-| **VLDB 2024 Travel Grant**. The SPEND Committee of the VLDB Endowment, Aug 2024. |
-| **SIGMOD 2023 Travel Award**. ACM SIGMOID/PODS 2023 Mentorship Committee, Apr 2023. |
+| **[BDA Thesis Award](https://bdav.irisa.fr/prix/)** 2024. The French Data Management Community ([BDA](https://bdav.irisa.fr/)), Oct 2024. |
+| **VLDB 2024 Travel Grant**. The VLDB Endowment, Aug 2024. |
+| **SIGMOD 2023 Travel Award**. The ACM SIGMOD, Apr 2023. |
 | **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), Jan-Jul 2023. |
 | **Deep Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), May-Aug 2022. |
