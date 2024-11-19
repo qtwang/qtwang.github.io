@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2024-11-01
+last_modified_at: 2024-11-15
 redirect_from: 
   - /home
   - /home.html
@@ -32,6 +32,7 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
+| Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. |
 | *Qitong Wang*, Ioana Ileana, Themis Palpanas. **LeaFi: Data Series Indexes on Steroids with Learned Filters**. Accepted at SIGMOD 2025. |
 | Zeyu Wang, *Qitong Wang*<span>&dagger;</span>, Xiaoxing Cheng, Peng Wang, Themis Palpanas, Wei Wang. **Steiner-Hardness: a Query Hardness Measure for Graph-Based ANN Indexes**. PVLDB 17(13), 2024. \[[pdf](https://www.arxiv.org/pdf/2408.13899)\]|
 | Xu Zhang, Zhipeng Xie, Haiyang Yu, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**. MM 2024. \[[pdf](https://arxiv.org/pdf/2408.13744)\] |
