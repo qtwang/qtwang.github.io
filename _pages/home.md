@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2024-12-10
+last_modified_at: 2025-02-11
 redirect_from: 
   - /home
   - /home.html
@@ -32,6 +32,7 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
+| Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. Accepted at EDBT 2025.|
 | Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. Accepted at AAAI 2025. |
 | Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. |
 | *Qitong Wang*, Ioana Ileana, Themis Palpanas. **LeaFi: Data Series Indexes on Steroids with Learned Filters**. Accepted at SIGMOD 2025. \[[pdf](https://www.arxiv.org/pdf/2502.01836)\]|
@@ -56,13 +57,13 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Services
 
-| Reviewer & PC Member | PVLDB 24-25, KDD 25, TKDE 24, [MulTiSA@ICDE](https://multisa2024.org/) 24 |
+| Reviewer & PC Member | PVLDB 25-26/24-25, KDD 25, TKDE 25/24, [MulTiSA@ICDE](https://multisa2024.org/) 24 |
 | Invited External Reviewer | ICDE 23, PAKDD 22, ICDM 22, PVLDB 21, DMKD 21 |
 | Student Volunteer | SIGMOD 23/20 |
 
 ## Awards and Funding
 
-| **[BDA Thesis Award](https://bdav.irisa.fr/prix/)** 2024. The French Data Management Community ([BDA](https://bdav.irisa.fr/)), Oct 2024. |
+| **[BDA Doctoral Dissertation Award](https://bdav.irisa.fr/prix/)** 2024. The French Data Management Community ([BDA](https://bdav.irisa.fr/)), Oct 2024. |
 | **VLDB 2024 Travel Grant**. The VLDB Endowment, Aug 2024. |
 | **SIGMOD 2023 Travel Award**. The ACM SIGMOD, Apr 2023. |
 | **Deep Active Learning-based EEG Epilepsy Detection and Analysis**. Qitong Wang (PI). The Data Intelligence Institute of Paris ([diiP](https://u-paris.fr/diip/)), Jan-Jul 2023. |
