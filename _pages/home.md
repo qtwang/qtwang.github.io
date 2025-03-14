@@ -32,7 +32,7 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
-| Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. Accepted at EDBT 2025.|
+| Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. EDBT 2025 \[[pdf](https://openproceedings.org/2025/conf/edbt/paper-272.pdf)\].|
 | Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. Accepted at AAAI 2025. |
 | Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. |
 | *Qitong Wang*, Ioana Ileana, Themis Palpanas. **LeaFi: Data Series Indexes on Steroids with Learned Filters**. Accepted at SIGMOD 2025. \[[pdf](https://www.arxiv.org/pdf/2502.01836)\]|
