@@ -32,6 +32,7 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
+| Yingrong Fang, *Qitong Wang*<span>&dagger;</span>, Wei Wang. **Aokana: A GPU-Driven Voxel Rendering Framework for Open World Games**. Accepted at [I3D 2025](https://i3dsymposium.org/2025/).|
 | Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. EDBT 2025. \[[pdf](https://openproceedings.org/2025/conf/edbt/paper-272.pdf)\]|
 | Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. Accepted at AAAI 2025. |
 | Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. |
