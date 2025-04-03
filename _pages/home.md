@@ -6,7 +6,7 @@ classes: wide
 layout: single
 # title: "About Qitong"
 author_profile: true
-last_modified_at: 2025-02-11
+last_modified_at: 2025-04-3
 redirect_from: 
   - /home
   - /home.html
@@ -32,6 +32,7 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 
 ## Publications
 
+| Zeyu Wang, Haoran Xiong, *Qitong Wang*, Zhenying He, Peng Wang, Themis Palpanas, Wei Wang. **Dimensionality-Reduction Techniques for Approximate Nearest Neighbor Search: A Survey and Evaluation**. IEEE [DEBull](http://sites.computer.org/debull/bull_issues.html) 2025. \[[pdf](http://sites.computer.org/debull/A24sept/p63.pdf)\]|
 | Yingrong Fang, *Qitong Wang*<span>&dagger;</span>, Wei Wang. **Aokana: A GPU-Driven Voxel Rendering Framework for Open World Games**. Accepted at [I3D 2025](https://i3dsymposium.org/2025/).|
 | Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. EDBT 2025. \[[pdf](https://openproceedings.org/2025/conf/edbt/paper-272.pdf)\]|
 | Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. Accepted at AAAI 2025. |
