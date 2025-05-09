@@ -33,10 +33,10 @@ I am also fortunate to closely collaborate with [Prof. Ke Li](https://www.sfu.ca
 ## Publications
 
 | Zeyu Wang, Haoran Xiong, *Qitong Wang*, Zhenying He, Peng Wang, Themis Palpanas, Wei Wang. **Dimensionality-Reduction Techniques for Approximate Nearest Neighbor Search: A Survey and Evaluation**. IEEE [DEBull](http://sites.computer.org/debull/bull_issues.html) 2025. \[[pdf](http://sites.computer.org/debull/A24sept/p63.pdf)\]|
-| Yingrong Fang, *Qitong Wang*<span>&dagger;</span>, Wei Wang. **Aokana: A GPU-Driven Voxel Rendering Framework for Open World Games**. Accepted at [I3D 2025](https://i3dsymposium.org/2025/).|
+| Yingrong Fang, *Qitong Wang*<span>&dagger;</span>, Wei Wang. **Aokana: A GPU-Driven Voxel Rendering Framework for Open World Games**. [I3D 2025](https://i3dsymposium.org/2025/). \[[pdf](https://www.arxiv.org/pdf/2505.02017)\] |
 | Sijie Dong, Soror Sahri, Themis Palpanas, *Qitong Wang*. **Automated Data Quality Validation in an End-to-End GNN Framework**. EDBT 2025. \[[pdf](https://openproceedings.org/2025/conf/edbt/paper-272.pdf)\]|
-| Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. Accepted at AAAI 2025. |
-| Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. |
+| Xu Zhang, *Qitong Wang*, Peng Wang, Wei Wang. **A Lightweight Sparse Interaction Network for Time Series Forecasting**. AAAI 2025. \[[pdf](https://doi.org/10.1609/aaai.v39i12.33452)\] |
+| Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Multi-period Learning for Financial Time Series Forecasting**. Accepted at KDD 2025. [doi](https://doi.org/10.1145/3690624.3709422) |
 | *Qitong Wang*, Ioana Ileana, Themis Palpanas. **LeaFi: Data Series Indexes on Steroids with Learned Filters**. Accepted at SIGMOD 2025. \[[pdf](https://www.arxiv.org/pdf/2502.01836)\]|
 | Zeyu Wang, *Qitong Wang*<span>&dagger;</span>, Xiaoxing Cheng, Peng Wang, Themis Palpanas, Wei Wang. **Steiner-Hardness: a Query Hardness Measure for Graph-Based ANN Indexes**. PVLDB 17(13), 2024. \[[pdf](https://www.arxiv.org/pdf/2408.13899)\]|
 | Xu Zhang, Zhipeng Xie, Haiyang Yu, *Qitong Wang*<span>&dagger;</span>, Peng Wang, Wei Wang. **Enhancing Adaptive Deep Networks for Image Classification via Uncertainty-aware Decision Fusion**. MM 2024. \[[pdf](https://arxiv.org/pdf/2408.13744)\] |
