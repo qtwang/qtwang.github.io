@@ -163,7 +163,7 @@
           <div class="pub-row1">
             <span class="pub-title">Multi-period Learning for Financial Time Series Forecasting</span>
             <span class="pub-badges">
-              <a href="https://doi.org/10.1145/3690624.3709422" class="badge badge-doi">doi</a>
+              <a href="https://dl.acm.org/doi/epdf/10.1145/3690624.3709422" class="badge badge-pdf">pdf</a>
             </span>
           </div>
           <div class="pub-row2">Xu Zhang, Zhengang Huang, Yunzhi Wu, Xun Lu, Erpeng Qi, Yunkai Chen, Zhongya Xue,
@@ -281,8 +281,8 @@
             <span class="pub-title">Data Series Similarity Search via Deep Learning</span>
             <span class="pub-badges">
               <a href="https://ceur-ws.org/Vol-3186/paper_4.pdf" class="badge badge-pdf">pdf</a>
-              <a href="assets/pdf/kdd21-seanet-slides.pdf" class="badge badge-slides">slides</a>
               <a href="assets/video/kdd21-seanet.mp4" class="badge badge-talk">talk</a>
+              <a href="assets/pdf/kdd21-seanet-slides.pdf" class="badge badge-slides">slides</a>
             </span>
           </div>
           <div class="pub-row2"><em>Qitong Wang</em> · VLDB PhD Workshop 2022</div>
@@ -294,9 +294,9 @@
             <span class="pub-badges">
               <a href="https://helios2.mi.parisdescartes.fr/~themisp/publications/kdd21-seanet.pdf"
                 class="badge badge-pdf">pdf</a>
-              <a href="https://github.com/qtwang/SEAnet" class="badge badge-code">code</a>
-              <a href="assets/pdf/kdd21-seanet-slides.pdf" class="badge badge-slides">slides</a>
               <a href="assets/video/kdd21-seanet.mp4" class="badge badge-talk">talk</a>
+              <a href="assets/pdf/kdd21-seanet-slides.pdf" class="badge badge-slides">slides</a>
+              <a href="https://github.com/qtwang/SEAnet" class="badge badge-code">code</a>
             </span>
           </div>
           <div class="pub-row2"><em>Qitong Wang</em>, Themis Palpanas · KDD 2021</div>
@@ -305,6 +305,9 @@
         <div class="pub">
           <div class="pub-row1">
             <span class="pub-title">HDUMP: A Data Recovery Tool for Hadoop</span>
+            <span class="pub-badges">
+              <a href="https://doi.org/10.1007/978-3-319-91458-9_56" class="badge badge-doi">doi</a>
+            </span>
           </div>
           <div class="pub-row2">Zhongsheng Li, Qiuhong Li, Wei Wang, <em>Qitong Wang</em>, Fengbin Qi, Yimin Liu, Peng
             Wang · DASFAA (demo) 2018</div>
@@ -346,13 +349,47 @@
 
     </section>
 
+    <!-- ── Teaching ───────────────────────────── -->
+    <section id="teaching">
+      <h2>Teaching</h2>
+      <table class="svc-table teaching-table collapsed">
+        <tr data-featured>
+          <td><a href="http://daslab.seas.harvard.edu/classes/cs265/">CS265: Big Data &amp; AI Systems</a></td>
+          <td>Teaching Fellow, Harvard University</td>
+          <td>2025, 2026</td>
+        </tr>
+        <tr data-featured>
+          <td><a href="http://daslab.seas.harvard.edu/classes/cs165/">CS165: Data Systems</a></td>
+          <td>Teaching Fellow, Harvard University</td>
+          <td>2024, 2025</td>
+        </tr>
+        <tr>
+          <td>Probability and Statistics</td>
+          <td>Teaching Fellow, Fudan University</td>
+          <td>2018</td>
+        </tr>
+        <tr>
+          <td>Discrete Mathematics</td>
+          <td>Teaching Fellow, Fudan University</td>
+          <td>2018</td>
+        </tr>
+        <tr data-featured>
+          <td>Database Management Systems</td>
+          <td>Teaching Fellow, Fudan University</td>
+          <td>2017</td>
+        </tr>
+      </table>
+      <button class="show-btn" id="teaching-btn" onclick="toggleTeaching()">Show all courses ↓</button>
+    </section>
+
     <!-- ── Services ───────────────────────────── -->
     <section id="services">
       <h2>Services</h2>
       <table class="svc-table">
         <tr>
           <td class="svc-role">Reviewer &amp; PC Member</td>
-          <td>PVLDB 25–26/24–25, KDD 25, TKDE 25/24, <a href="https://multisa2025.github.io/">MulTiSA@ICDE</a> 25/24
+          <td>SIGMOD 27/26, PVLDB 26/25, ICDE 26, KDD 26/25, ICLR 26/25, NeurIPS 25, ICML 25, VLDBJ 26, TKDE 26/25/24, <a
+              href="https://multisa2025.github.io/">MulTiSA@ICDE</a> 25/24
           </td>
         </tr>
         <tr>
@@ -402,6 +439,13 @@
   <script>
     const pubCount = document.querySelectorAll('.pub-list .pub').length;
     document.getElementById('pub-btn').textContent = `Show all ${pubCount} publications ↓`;
+
+    function toggleTeaching() {
+      const table = document.querySelector('.teaching-table');
+      const btn   = document.getElementById('teaching-btn');
+      const collapsed = table.classList.toggle('collapsed');
+      btn.textContent = collapsed ? 'Show all courses ↓' : 'Show fewer ↑';
+    }
 
     function togglePubs() {
       const list = document.querySelector('.pub-list');

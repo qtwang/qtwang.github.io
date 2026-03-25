@@ -181,6 +181,10 @@ h2 {
 /* Add data-featured to a .pub entry in HTML to show it in the collapsed list. */
 .pub-list.collapsed .pub:not([data-featured]) { display: none; }
 
+.teaching-table.collapsed tr:not([data-featured]) { display: none; }
+
+#teaching-btn { margin-top: 16px; }
+
 .footnote {
   font-size: 12px;
   color: var(--faint);
