@@ -234,6 +234,14 @@ h2 {
   width: 200px;
 }
 
+.svc-year {
+  color: var(--muted);
+  font-size: 13px;
+  white-space: nowrap;
+  text-align: right;
+  width: 80px;
+}
+
 /* ── Awards ──────────────────────────────────── */
 .award {
   display: flex;
