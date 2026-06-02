@@ -178,6 +178,11 @@ h2 {
 
 .badge:hover { filter: brightness(0.93); text-decoration: none; }
 
+.badge-placeholder {
+  visibility: hidden;
+  pointer-events: none;
+}
+
 .badge-pdf    { background: #f0ebe4; color: #9a7a52; }
 .badge-code   { background: #e7ede5; color: #5e8258; }
 .badge-slides { background: #e5edf4; color: #547aa8; }
