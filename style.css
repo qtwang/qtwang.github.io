@@ -191,7 +191,8 @@ h2 {
 
 .pub-list .pub-venue {
   grid-column: 2;
-  justify-self: start;
+  justify-self: end;
+  text-align: right;
   align-self: baseline;
   transform: translateY(1px);
   float: none;
